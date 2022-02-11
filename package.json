@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "froala-editor": "^3.0.0-rc.1",
+    "froala-editor": "^4.0.7",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-froala-wysiwyg": "^3.0.0-rc.1",
